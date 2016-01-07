@@ -1,0 +1,23 @@
+body{
+  background-image: url(https://iambidextrous.files.wordpress.com/2012/03/dsc034011.jpg);
+  color: white;
+}
+h1{
+  text-align: center;
+  color: #802A2A;
+  font-size: 75px;
+  padding-top: 50px;
+  font-family: monospace;
+}
+h2{
+  text-align: center;
+  font-size: 48px;
+  color: #CD5C5C;
+  font-weight: lighter;
+}
+h4{
+  text-align: center;
+}
+.nice{
+  color: black;
+}
